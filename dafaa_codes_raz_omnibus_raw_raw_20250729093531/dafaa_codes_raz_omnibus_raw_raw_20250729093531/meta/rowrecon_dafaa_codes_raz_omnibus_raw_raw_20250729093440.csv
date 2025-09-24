@@ -1,0 +1,3 @@
+db_name,table_name,partition_name,partition_value,num_files,row_count,tx_date
+raz_omnibus_raw_raw,dafaa_codes,dt_datafile,20241231,1,28,20250729
+raz_omnibus_raw_raw,dafaa_codes,dt_datafile,20250131,1,14,20250729
